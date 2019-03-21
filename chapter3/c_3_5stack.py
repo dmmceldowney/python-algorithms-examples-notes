@@ -39,7 +39,8 @@ def revstring(mystr):
         
     return new_str
 
-
+"""
 s = 'This is a test string'
 print(s)
 print(revstring(s))
+"""
